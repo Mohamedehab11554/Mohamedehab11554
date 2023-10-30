@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ehab</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate React developer from Egypt</h3>
 
 ![IMG_6303](https://github.com/Mohamedehab11554/Mohamedehab11554/assets/145847573/857d16d5-682a-4cb3-b083-1fdc131f7bce)
 
